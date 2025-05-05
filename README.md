@@ -61,5 +61,5 @@ Developed by **[fotsing Kuetche]**, computer scientist specialized in shop manag
 
 ## 📜 License
 
-This project is licensed under LGPL v3 . Please contact the developer for more information.
+This project is licensed under personal License. Please contact the developer for more information.
 
